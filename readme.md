@@ -310,7 +310,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Include All Commits
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+
 
 - Themes
 
